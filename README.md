@@ -1,1 +1,1 @@
-# website-deploy-from-git
+# deploy-with-git-hooks
