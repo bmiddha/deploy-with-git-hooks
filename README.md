@@ -16,3 +16,12 @@ Usage: gitdeploy.sh --git <example.git> --deploy <deploy_here> {--user | --host 
       -b, --branch            Specify Deploy Branch (Default is master)
       -h, --help              Displays Help Information
 ```
+## Install
+```
+sudo mv gitdeploy.sh /usr/bin/gitdeploy
+```
+Use anywhere with `gitdeploy`
+## Uninstall
+```
+sudo rm /usr/bin/gitdeploy
+```
